@@ -1,4 +1,4 @@
-Perform a predictive modeling analysis on this same dataset (Problem 5 of HW1) using the decision tree, k-NN techniques, logistic regression and SVM (explore how well model performs for several different hyper-parameter values). Present a brief overview of your predictive modeling process, explorations, and discuss your results. Make sure you present information about the model “goodness” (possible things to think about: confusion matrix, predictive accuracy, precision, recall, f-measure). Briefly discuss ROC and lift curves.
+Perform a predictive modeling analysis using the decision tree, k-NN techniques, logistic regression and SVM (explore how well model performs for several different hyper-parameter values). A brief overview of your predictive modeling process, explorations, and discussion of results. I you present information about the model “goodness” (confusion matrix, predictive accuracy, precision, recall, f-measure) and briefly discuss ROC and lift curves.
 
 
 ```python
